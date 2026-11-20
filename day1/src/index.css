@@ -1,1 +1,14 @@
+body {
+  margin: 0;
+  padding: 0 16px;
+  line-height: 1.5;
+}
 
+section {
+  margin: 16px 0;
+}
+
+button {
+  margin: 4px 4px 4px 0;
+  cursor: pointer;
+}
